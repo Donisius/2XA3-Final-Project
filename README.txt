@@ -111,6 +111,7 @@ XXXXXXXXXXXXXXXXXXXXXXX
   oooooooo|oooooooo
  ooooooooo|ooooooooo
 XXXXXXXXXXXXXXXXXXXXXXX
+
 final configuration
 
          o|o
