@@ -1,5 +1,3 @@
-# Insertion-Sort-with-NASM
-
 Sample run:
 
 make sorthem
